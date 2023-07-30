@@ -1,8 +1,8 @@
 [![](https://visitcount.itsvg.in/api?id=apurv212&icon=5&color=3)](https://visitcount.itsvg.in)
 
 ### Hi <img alt="Wave" src="https://cdn.discordapp.com/attachments/998544586454614016/1019898089605185556/HandWave.gif" width='40' align="left"/> there I'm Apurv Shashvat 
-   <img height="120" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  /> </div>
-# 💫 About Me:
+  <div align="center"> <img height="120" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  /> </div>
+<h2>💫 About Me:</h2>
 🔭 I’m currently Leaning<br>👯 I’m looking to collaborate on Software testing - related content creation<br>🌱 I’m currently learning backend development<br>💬 Ask me about frontend<br>⚡ learning and implementing new things
 
 
