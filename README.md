@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=apurv212&icon=5&color=3)](https://visitcount.itsvg.in)
+
 ### Hi there I'm Apurv Shashvat👋
 # 💫 About Me:
 🔭 I’m currently Leaning<br>👯 I’m looking to collaborate on Software testing - related content creation<br>🌱 I’m currently learning backend development<br>💬 Ask me about frontend<br>⚡ learning and implementing 
@@ -18,7 +20,6 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=apurv212&icon=5&color=3)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
