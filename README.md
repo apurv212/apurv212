@@ -2,7 +2,7 @@
 
 ### Hi there I'm Apurv Shashvat👋
 # 💫 About Me:
-🔭 I’m currently Leaning<br>👯 I’m looking to collaborate on Software testing - related content creation<br>🌱 I’m currently learning backend development<br>💬 Ask me about frontend<br>⚡ learning and implementing 
+🔭 I’m currently Leaning<br>👯 I’m looking to collaborate on Software testing - related content creation<br>🌱 I’m currently learning backend development<br>💬 Ask me about frontend<br>⚡ learning and implementing new things
 
 
 ## 🌐 Socials:
