@@ -7,7 +7,7 @@
 🔭 I’m currently Leaning<br>👯 I’m looking to collaborate on Software testing - related content creation<br>🌱 I’m currently learning backend development<br>💬 Ask me about frontend<br>⚡ learning and implementing new things
 
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hkenlscDFxeWtxem02NXM2MXM0dXR6OXNscGcwcnQ5Y3ptN2IxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JKBEeIZ0XeG0VSeN9g/giphy.gif" width=38px align="center">Socials:
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hkenlscDFxeWtxem02NXM2MXM0dXR6OXNscGcwcnQ5Y3ptN2IxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JKBEeIZ0XeG0VSeN9g/giphy.gif" width=42px align="center">Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/apurv_shashvat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/apurv-s-023564269) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/apurv-shashvat) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@apurv_shashvat) 
 
 #  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills
