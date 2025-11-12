@@ -15,9 +15,10 @@
 #  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 # GitHub Stats:<img src="https://media.giphy.com/media/gu9XBXiz60HlO5p9Nz/giphy.gif" width=60px align="center">
-![](https://github-readme-stats.vercel.app/api?username=apurv212&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![apurv212's Stats](https://github-readme-stats.vercel.app/api?username=apurv212&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=apurv212&theme=blue-green&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=apurv212&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![apurv212's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apurv212&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
 
 ### 
 
